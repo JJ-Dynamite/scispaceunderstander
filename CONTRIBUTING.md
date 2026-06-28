@@ -1,4 +1,4 @@
-# Contributing to faang-scispace-understander
+# Contributing to scispaceunderstander
 
 Thank you for your interest in contributing!
 

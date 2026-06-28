@@ -1,11 +1,11 @@
 [package]
-name = "faang-scispace-understander-backend"
+name = "scispaceunderstander-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Understand any research paper - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-scispace-understander"
+repository = "https://github.com/JJ-Dynamite/scispaceunderstander"
 
 [dependencies]
 axum = "0.7"
